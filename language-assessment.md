@@ -1,6 +1,6 @@
 A curated list of language interview questions.
 
-**Note**: If you need to assess other language other than English, please translate the questions accordingly (the concept should be the same). :wink:
+**Note**: If you need to assess another language (other than English), please translate the questions accordingly (the concept should be the same). :wink:
 
 # Table of Contents
 
@@ -43,6 +43,9 @@ A curated list of language interview questions.
 * What do you know about the company?
 * What are your expectation for the job?
 * Tell us about your technical background/qualifications.
+* How do you see yourself in 5 years?
+* What motivates you the most?
+* What are your strengths/weaknesses?
 * Tell us about your most recent project.
 * Do you ever do any coding in your personal time (outside of work)?
 * Do you have a account on Github?
