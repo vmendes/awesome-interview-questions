@@ -64,6 +64,7 @@ This is a forked project, so please contribute to the [original project](https:/
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
+- [Language Asssessment](#language)
 
 ## Programming Languages/Frameworks/Platforms
 
@@ -465,6 +466,9 @@ This is a forked project, so please contribute to the [original project](https:/
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+
+## Language Assessment
+* [Language Assessment](language-assessment.md)
 
 ### License
 
