@@ -64,7 +64,7 @@ This is a forked project, so please contribute to the [original project](https:/
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
-- [Language Asssessment](#language)
+- [Language Asssessment](#language-assessment)
 
 ## Programming Languages/Frameworks/Platforms
 
