@@ -4,9 +4,7 @@
 
 [What makes for an awesome list?](awesome.md)
 
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
-
-**Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
+This is a forked project, so please contribute to the [original project](https://github.com/MaximAbramchuck/awesome-interview-questions). Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ### Table of Contents
 
